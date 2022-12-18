@@ -1,6 +1,7 @@
 - 👋      Hi, I’m @Galanxo
-- 👀 And I’m interested in OSINT
-- And a proud NEWBIE !
+- A proud Newbie
+- 👀 interested in OSINT
+-  A proud NEWBIE !
 - 📫 How to reach me through my email address
 - shaddiegalanxo254@gmail.com
 
