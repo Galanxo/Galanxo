@@ -1,9 +1,9 @@
 - 👋      Hi, I’m @Galanxo
-- A proud Newbie
-- 👀 interested in OSINT
--  A proud NEWBIE !
-- 📫 How to reach me through my email address
-- shaddiegalanxo254@gmail.com
+- it's 2020 A proud Newbie
+- it's 2021 👀 OSINT
+- it's 2022 (Html, Js web-fanatic)
+- It's 2023 (C/C++ Rust & Python)
+- 📫 email shaddiegalanxo254@gmail.com
 
 <!---
 Galanxo/Galanxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
