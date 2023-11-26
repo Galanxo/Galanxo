@@ -1,8 +1,8 @@
 - 👋      Hi, I’m @Galanxo
 - it's 2020 A proud Newbie
 - it's 2021 👀 OSINT
-- it's 2022 (Html, Js web-fanatic)
-- It's 2023 (C/C++ Rust & Python)
+- it's 2022 (Html & JS web-fanatic)
+- It's 2023 (C++ & Rust)
 - 📫 email shaddiegalanxo254@gmail.com
 
 <!---
